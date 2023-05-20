@@ -20,7 +20,7 @@ npm inquirer
 
 [![README creator demo](https://img.youtube.com/vi/BmcxwaopGsQ/0.jpg)](https://www.youtube.com/watch?v=BmcxwaopGsQ)
 
-
+https://Shok1to.github.io/README-creator/embed.html
 
 ## Links
 [Github repository](https://github.com/Shok1to/README-creator)
