@@ -18,7 +18,9 @@ npm inquirer
 
 ## Usage
 
-https://drive.google.com/file/d/1HpeIZh9U3wK6QlwfXz5x93WHS3bQ6jxb/view
+<iframe src="https://drive.google.com/file/d/1HpeIZh9U3wK6QlwfXz5x93WHS3bQ6jxb/preview" width="640" height="480"></iframe>
+
+
 
 ## Links
 [Github repository](https://github.com/Shok1to/README-creator)
