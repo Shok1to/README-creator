@@ -17,15 +17,12 @@ To create a command-line application that dynamically generates a professional R
 npm inquirer 
 
 ## Usage
+[README creator video demo](https://drive.google.com/file/d/1HpeIZh9U3wK6QlwfXz5x93WHS3bQ6jxb/view)
 
-[![README creator demo](https://img.youtube.com/vi/BmcxwaopGsQ/0.jpg)](https://www.youtube.com/watch?v=BmcxwaopGsQ)
-
-https://Shok1to.github.io/README-creator/embed.html
-
-## Links
+## Link
 [Github repository](https://github.com/Shok1to/README-creator)
 
-[README creator video](https://drive.google.com/file/d/1HpeIZh9U3wK6QlwfXz5x93WHS3bQ6jxb/view)
+
 
 ## Contribution
 - gachoi06 (starter code)
