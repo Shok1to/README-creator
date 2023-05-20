@@ -18,7 +18,7 @@ npm inquirer
 
 ## Usage
 
-<iframe src="https://drive.google.com/file/d/1HpeIZh9U3wK6QlwfXz5x93WHS3bQ6jxb/preview" width="640" height="480"></iframe>
+[![README creator demo](https://img.youtube.com/vi/BmcxwaopGsQ/0.jpg)](https://www.youtube.com/watch?v=BmcxwaopGsQ)
 
 
 
